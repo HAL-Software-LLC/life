@@ -25,6 +25,7 @@ Algorithms used to complete lawn care activities
 
 ### Mowing pattern 1
 Useful for enclosed areas (e.g. back yard with fences)
+
 1. Start in a corner
 2. Mow a straight line along the edge until encountering an angle
 3. Mow along the angle until reaching the next edge
@@ -35,8 +36,9 @@ Useful for enclosed areas (e.g. back yard with fences)
 The next time this algorithm is used, mow in the opposite direction (e.g. anti-
 clockwise instead of clockwise).
 
-## Mowing pattern 2
+### Mowing pattern 2
 Useful for non-enclosed areas (front yard without fences)
+
 1. Start in a corner
 2. Mow a straight line along the edge until encountering an edge
 3. Rotate the mower 180 degrees
