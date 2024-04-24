@@ -1,2 +1,2 @@
 # HAL5433
-Simplify your life using automation.
+The HAL5433 computer program simplifies your life using automation.
