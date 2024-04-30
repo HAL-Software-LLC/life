@@ -12,6 +12,10 @@ Take care of your teeth!!
 ## Hardware
 Tools and consumables
 
+### Photos
+![Toothbrush equipment photo 1 of 2](https://hal-software.llc/media/PXL_20240430_155455234.jpg)
+![Toothbrush equipment photo 2 of 2](https://hal-software.llc/media/PXL_20240430_155522399.jpg)
+
 ### Toothbrush
 Philips Sonicare ProtectiveClean 5100 Gum Health Rechargeable Electric Toothbrush
 
@@ -65,10 +69,7 @@ TopCare Whitening Anticavity Mouthwash
 * Menthol
 * Phosophoric acid
 * Disodium phosphate
-* flavor
-
-### Photos
-Tbd
+* Flavor
 
 ## Software
 General principles
