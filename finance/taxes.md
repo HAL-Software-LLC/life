@@ -3,7 +3,6 @@ I have to file federal income taxes in the United States.
 
 ## Federal
 I filed federal taxes using
-<a href="https://www.freefilefillableforms.com/home/default.php">Free File Fillable Forms</a>
 sometime in early February.
 
 I needed to file federal income taxes by 15 April, 2024.
@@ -26,14 +25,15 @@ I need to file Iowa income taxes by 30 April, 2024.
 
 ## Software
 
+### Form editing
+* <a href="https://www.freefilefillableforms.com/home/default.php">Free File Fillable Forms</a>
+* Adobe Acrobat
+
 ### Information gathering
 Google
 
 ### Calculator
 Google
-
-### PDF editor
-Adobe Acrobat
 
 ## Notes
 
