@@ -10,18 +10,65 @@ Take care of your teeth!!
 5. Angle bristles so they slide between teeth and gums
 
 ## Hardware
-
-### Floss
-High Tech Dental Floss
-* Much less likely to break
-
-### Mouthwash
-Whitening with 8% alcohol
-* Generic
+Tools and consumables
 
 ### Toothbrush
-Philips SonicCare
-* Replace head every 6 months
+Philips Sonicare ProtectiveClean 5100 Gum Health Rechargeable Electric Toothbrush
+
+#### Notes
+I grabbed this from Target to replace an old Philips Sonicare toothbrush. This one
+is a little fancier than my old one. And it came in a pretty blue color.
+
+### Toothpaste
+Fluoridex Sensitivity Relief Prescription-Strength Anticavity Toothpaste
+
+#### Notes
+My dentist prescribed this to me because my teeth enamel has a lot of decay. Brush
+your teeth!!!
+
+#### Active ingredients
+* Sodium fluoride (1.1%)
+* Potassium nitrate (5%)
+
+#### Inactive ingredients
+* Cellulose gum
+* D&C yellow 10
+* FD&C blue 1
+* Flavor
+* Glycerin
+* Mica
+* Titanium dioxide
+* Poloxamer 234
+* Silica
+* Sodium lauryl sulfate
+* Sodium saccharin
+* Sorbitol
+* Water
+* Xylitol
+
+### Floss
+TopCare Hi-Tech Dental Floss
+
+### Mouthwash
+TopCare Whitening Anticavity Mouthwash
+
+#### Active ingredient
+* Sodium fluoride 0.02% (0.01% w/v fluoride ion)
+
+#### Inactive ingredients
+* Water
+* Alcohol (8%)
+* Hydrogen peroxide
+* Poloxamer 407
+* Sodium saccharin
+* Sucralose
+* Menthol
+* Phosophoric acid
+* Disodium phosphate
+* flavor
+
+### Photos
+Tbd
 
 ## Software
 General principles
