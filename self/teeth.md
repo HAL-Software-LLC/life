@@ -10,7 +10,6 @@ Take care of your teeth!!
 5. Angle bristles so they slide between teeth and gums
 
 ## Hardware
-Tools and consumables
 
 ### Photos
 ![Toothbrush equipment photo 1 of 2](https://hal-software.llc/media/PXL_20240430_155455234.jpg)
